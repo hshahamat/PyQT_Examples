@@ -64,7 +64,7 @@ class MainWindow(QtWidgets.QWidget):
 
         self.bk_lbl = QtWidgets.QLabel(self)
         aw = 100
-        ah = QtWidgets.QApplication.screens()[0].size().width()
+        ah = self.height()
         self.bk_lbl.setGeometry(0, 0, aw, ah)
         self.bk_lbl.setStyleSheet('background-color: yellow')
 
