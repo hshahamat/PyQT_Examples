@@ -4,9 +4,9 @@ PyQT5 Funny Examples
 Requirements:
 
 PyQt5
-Numpy
+numpy
 cv2
-Matplotlib
+matplotlib
 skimage
 torch
 scipy
