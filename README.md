@@ -9,3 +9,4 @@ cv2
 Matplotlib
 skimage
 torch
+scipy
